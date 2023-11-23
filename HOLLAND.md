@@ -9,7 +9,7 @@ Dutch cuisine features a variety of hearty dishes. Some popular items include:
 ```
 Stroopwafels: Thin waffle cookies filled with caramel syrup.
 
-Bitterballen: Deep-fried balls filled with a mixture of beef or veal ragout.
+Bitterballen: Deep-fried balls filled with a mixture of beef or veal.
 
 Haring: Raw herring fish often served with onions and pickles.
 ``` 
