@@ -1,5 +1,7 @@
 [Back to Main Page](README.md)
 
+![stroopwafels](stroopwafel.jpg)
+
 ## Holland Cultural Highlights
 
 ### Dutch Cuisine
