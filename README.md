@@ -1,3 +1,5 @@
+![Amsterdam](Holland.jpg)
+
 # The Netherlands
 
 The Netherlands, often referred to as Holland, is a country that I visited with my family when I was a young kid, so I wanted to share some details about it for this assignment. It is known for its flat landscape, extensive canal systems, windmills, tulip fields, and cycling routes.
