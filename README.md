@@ -14,7 +14,7 @@ The Netherlands, often referred to as Holland, is a country located in Northwest
 The Netherlands is a low-lying country with approximately a third of its land below sea level. It is famous for its polders, reclaimed land enclosed by dikes. The country is crisscrossed by rivers and canals, and a significant portion of its land area is devoted to agriculture.
 
 ## Culture
-Dutch culture is known for its tolerance, liberalism, and emphasis on individual freedom. The country has a rich artistic tradition, with famous painters like Rembrandt and Van Gogh hailing from the Netherlands. Dutch festivals, such as King's Day (Koningsdag), showcase the lively and festive nature of the Dutch people.
+Dutch culture is known for its tolerance, liberalism, and emphasis on individual freedom. The country has a rich artistic tradition, with famous painters like Rembrandt and Van Gogh hailing from the Netherlands. Dutch festivals, such as King's Day (Koningsdag), showcase the lively and festive nature of the Dutch people. More information on Holland's culture can be found [Here](Holland.md).
 
 ## Tourist Attractions
 ### Amsterdam
